@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Golden-Boy75
-- 👀 I’m interested in Web design, Web development and Programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on coding in Javascript and python
+- 👀 I’m interested in Web development and Mobile App Development
+- 🌱 I’m currently learning Mobile App development
+- 💞️ I’m looking to collaborate on coding in Javascript and C++
 - 📫 How to reach me okeynwalagolden@gmail.com
 
 <!---
