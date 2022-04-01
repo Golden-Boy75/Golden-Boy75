@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Golden-Boy75
-- 👀 I’m interested in Web development and Mobile App Development
+- 👀 I’m interested in Mobile App Development with Flutter 
 - 🌱 I’m currently learning Mobile App development
-- 💞️ I’m looking to collaborate on coding in Javascript and C++
+- 💞️ I’m looking to collaborate on coding in Flutter and Dart
 - 📫 How to reach me okeynwalagolden@gmail.com
 
 <!---
